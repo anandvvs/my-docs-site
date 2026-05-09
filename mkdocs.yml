@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: My Docs Site
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - FAQ: faq.md
+  - Blog:
+      - First Post: blog/first-post.md
